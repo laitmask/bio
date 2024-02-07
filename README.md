@@ -12,8 +12,8 @@ enterprise solutions using Odoo, and data extraction through web scraping.
 
 ## 💬 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/laait00/)
-- [Twitter](https://twitter.com/laait00/)
+- [LinkedIn](https://www.linkedin.com/in/laitmask/)
+- [Twitter](https://twitter.com/laitmask/)
 
 ## ⚡ Fun Fact
 
